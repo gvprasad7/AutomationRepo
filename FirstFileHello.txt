@@ -1,5 +1,6 @@
 first file in git
 second file
+Adding for changes from github to git
 
 first file in git
 second file
